@@ -1,0 +1,41 @@
+{
+  "spriteId": {
+    "name": "spr_icon_off",
+    "path": "sprites/spr_icon_off/spr_icon_off.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "but_mainmenu",
+    "path": "objects/but_mainmenu/but_mainmenu.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": 1,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":2,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [
+    {"propertyId":{"name":"name","path":"objects/but_mainmenu/but_mainmenu.yy",},"objectId":{"name":"but_mainmenu","path":"objects/but_mainmenu/but_mainmenu.yy",},"value":"Settings...","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  ],
+  "parent": {
+    "name": "Main Menu",
+    "path": "folders/Objects/Buttons/Main Menu.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "bmm_settings",
+  "tags": [],
+  "resourceType": "GMObject",
+}
